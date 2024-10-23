@@ -1,0 +1,14 @@
+/Users/emrahelis/Inheritance-Kalitim3/bin/Debug/net8.0/Inheritance-Kalitim3
+/Users/emrahelis/Inheritance-Kalitim3/bin/Debug/net8.0/Inheritance-Kalitim3.deps.json
+/Users/emrahelis/Inheritance-Kalitim3/bin/Debug/net8.0/Inheritance-Kalitim3.runtimeconfig.json
+/Users/emrahelis/Inheritance-Kalitim3/bin/Debug/net8.0/Inheritance-Kalitim3.dll
+/Users/emrahelis/Inheritance-Kalitim3/bin/Debug/net8.0/Inheritance-Kalitim3.pdb
+/Users/emrahelis/Inheritance-Kalitim3/obj/Debug/net8.0/Inheritance-Kalitim3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Inheritance-Kalitim3/obj/Debug/net8.0/Inheritance-Kalitim3.AssemblyInfoInputs.cache
+/Users/emrahelis/Inheritance-Kalitim3/obj/Debug/net8.0/Inheritance-Kalitim3.AssemblyInfo.cs
+/Users/emrahelis/Inheritance-Kalitim3/obj/Debug/net8.0/Inheritance-Kalitim3.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Inheritance-Kalitim3/obj/Debug/net8.0/Inheritance-Kalitim3.dll
+/Users/emrahelis/Inheritance-Kalitim3/obj/Debug/net8.0/refint/Inheritance-Kalitim3.dll
+/Users/emrahelis/Inheritance-Kalitim3/obj/Debug/net8.0/Inheritance-Kalitim3.pdb
+/Users/emrahelis/Inheritance-Kalitim3/obj/Debug/net8.0/Inheritance-Kalitim3.genruntimeconfig.cache
+/Users/emrahelis/Inheritance-Kalitim3/obj/Debug/net8.0/ref/Inheritance-Kalitim3.dll
