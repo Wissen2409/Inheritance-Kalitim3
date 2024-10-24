@@ -1,9 +1,10 @@
 public class A{
 
+    //Türeyen 
     public string Aciklama { get; set; }
     public A()
     {
-
+        
     }
   
 }
